@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Boss2D",
+"productVersion": "0.1",
+"dataUrl": "IndianaJaneBoss2D.data.unityweb",
+"wasmCodeUrl": "IndianaJaneBoss2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "IndianaJaneBoss2D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
